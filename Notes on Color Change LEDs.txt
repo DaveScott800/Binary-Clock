@@ -1,0 +1,22 @@
+In May 2015 I purchased 3mm and 5mm color change LEDs off eBay.
+
+They're really just RGB leds with a IC to cycle thru the possible colors.
+
+There are slow change and fast change/blink versions.
+
+I have the slow change ones.
+
+They are clear not diffuse!  Arrgh!
+
+This makes them quite bright but the color blends are not very blended at all.
+
+Tried roughing them up with 600 grit sandpaper.  That helps some.
+
+Then added dipping them in hot glue.  That seems to help some more.
+
+One then quit working.  Are they delicate or failure prone?
+
+Varied their driving resistor.  Seems to work over a wide range.  5V supply.  At 1K or below, very bright.
+
+Took the resistor up to 10K.  Continues working.  Above 8K seems to be right for matching brightness of other LEDs being used.
+
